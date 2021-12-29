@@ -1,0 +1,10 @@
+.bg-grey{
+    background-color: #e7e6e6;
+    border-radius: 5px;
+    width: 100%;
+}
+
+.task{
+    display: flex;
+    justify-content: space-between;
+}
